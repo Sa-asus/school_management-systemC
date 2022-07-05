@@ -1,0 +1,7 @@
+Name = student_3
+class = 1st class
+current Attendance = 70%
+class performance = good
+outdoor activities = cricket, vollyball
+
+A very good student and bright student. 
